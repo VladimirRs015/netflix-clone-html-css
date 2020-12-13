@@ -1,6 +1,7 @@
 # Recreando Netflix
 
-**Diseñado con 💗 por [leonidasesteban.com](https://leonidasesteban.com/)**
+**Designed  by [leonidasesteban.com](https://leonidasesteban.com/)**
+**And Written by Vladimir Reyes  **
 
 ### Colores
 
